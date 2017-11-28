@@ -1,0 +1,21 @@
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.exe.config
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.exe
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.pdb
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.csprojResolveAssemblyReference.cache
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort_Paralel.Form1.resources
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort_Paralel.Properties.Resources.resources
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.csproj.GenerateResource.Cache
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.exe
+c:\users\mathi\onedrive\documentos\visual studio 2017\Projects\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.pdb
+C:\Users\Lucas\Documents\6o\Sistemas Concorrentes\MergeSort\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.exe.config
+C:\Users\Lucas\Documents\6o\Sistemas Concorrentes\MergeSort\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.exe
+C:\Users\Lucas\Documents\6o\Sistemas Concorrentes\MergeSort\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.pdb
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.exe.config
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.exe
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.pdb
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.exe
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\bin\Debug\Mergesort Paralel.pdb
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.csprojResolveAssemblyReference.cache
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort_Paralel.Form1.resources
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort_Paralel.Properties.Resources.resources
+C:\Temp\pmrgsrt\Mergesort Paralel\Mergesort Paralel\obj\Debug\Mergesort Paralel.csproj.GenerateResource.Cache
